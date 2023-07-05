@@ -16,7 +16,7 @@ int main() {
     printf("input t3: ");
     scanf("%f", &t3);
 
-    // Виклик функції та виведення результатуa
+    // Виклик функції та виведення результату
     float totalTime = eatCakeTime(t1, t2, t3);
     printf("time: %.2f hours\n", totalTime);
 
