@@ -13,7 +13,7 @@ int main() {
     scanf("%f", &t1);
     printf("input t2: ");
     scanf("%f", &t2);
-    printf("input / t3: ");
+    printf("input /f t3: ");
     scanf("%f", &t3);
 
     // Виклик функції та виведення результату
