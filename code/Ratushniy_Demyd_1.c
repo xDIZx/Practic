@@ -13,10 +13,10 @@ int main() {
     scanf("%f", &t1);
     printf("input t2: ");
     scanf("%f", &t2);
-    printf("input /f t3: ");
+    printf("input t3: ");
     scanf("%f", &t3);
 
-    // Виклик функції та виведення результату
+    // Виклик функції та виведення результату asdasd
     float totalTime = eatCakeTime(t1, t2, t3);
     printf("time: %.2f hours\n", totalTime);
 
