@@ -13,7 +13,7 @@ int main() {
     scanf("%f", &t1);
     printf("input t2: ");
     scanf("%f", &t2);
-    printf("input t3: ");
+    printf("input / t3: ");
     scanf("%f", &t3);
 
     // Виклик функції та виведення результату
@@ -21,4 +21,5 @@ int main() {
     printf("time: %.2f hours\n", totalTime);
 
     return 0;
+
 }
